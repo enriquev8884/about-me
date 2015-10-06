@@ -1,5 +1,6 @@
-Enrique Vivar
+Name: Enrique Vivar
 
-enriquev8884@hstat.org
+email: enriquev8884@hstat.org
 
-HSTAT
+School: HSTAT
+
