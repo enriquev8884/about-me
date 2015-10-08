@@ -23,15 +23,14 @@
 ---
 ##Bucket List
 
-*Sky diving
-*Swim with:
-*  Sharks
-*  Dolpines
-
-*Learn to play the ukulele
-*Create a game
-*Learn another language
-*Travel the world
+* Sky diving
+* Swim with:
+  * Sharks
+  * Dolpines
+* Learn to play the ukulele
+* Create a game
+* Learn another language
+* Travel the world
 
 ---
 ##Top 10 favorite Songs _(Not in order)_
