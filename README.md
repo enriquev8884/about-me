@@ -1,6 +1,16 @@
-Name: Enrique Vivar
+**Name:** Enrique Vivar
 
-email: enriquev8884@hstat.org
+**Email:** enriquev8884@hstat.org
 
-School: HSTAT
+**School:** HSTAT
 
+---
+#schedule
+###Period 1  : Software
+###Period 2  : Gym
+###Period 3  : U.S History
+###Period 4  : Pre Calcu
+###Period 5  : Spanish AP
+###Period 6  : English
+###Period 7  : Lunch
+###Period 8  : Physics
