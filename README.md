@@ -18,8 +18,11 @@
 ---
 ##Bio
 
-##### I'm a sixteen year old skater who loves to explore and learn. I'm curious of the future,  curious of what everything will be like in a couple years.
+  I'm a sixteen year old skater who loves to explore and learn. I'm curious of the future,  curious of what everything will be like in a couple years.
 
 ---
 ##Bucket List
+
+
+
 
