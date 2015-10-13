@@ -35,7 +35,7 @@
 ---
 ##Top 10 favorite Songs _(Not in order)_
 
-1. [Dream On by Aeosmith](https://www.youtube.com/watch?v=qzTZ76vhnKk)
+1. [Dream On by Aerosmith](https://www.youtube.com/watch?v=qzTZ76vhnKk)
 2. [T.N.T by AC/DC](https://www.youtube.com/watch?v=7WVBEB8-wa0)
 3. [Icky Thumb by The White Stripes](https://www.youtube.com/watch?v=5roz5-wdjBg)
 4. [Hero by Pegboard Nerds](https://www.youtube.com/watch?v=5lLclBfKj48)
